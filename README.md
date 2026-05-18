@@ -75,7 +75,7 @@ The dashboard displays:
 # 📁 Project Structure
 
 ```text
-Shopping-Mall-Management-System
+Certificate-service
 │
 ├── 📂 certificate-frontend
 ├── 📂 certificate-backend
@@ -177,7 +177,7 @@ This project helped me learn and implement:
 
 # 👨‍💻 Developed By
 
-## ✨ Anusha V
+# ✨ Anusha V
 
 ### 📌 Role:
 Backend & Full-Stack Developer — Certificate Service Module
