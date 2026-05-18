@@ -1,19 +1,25 @@
--🏢 Certificate Service Module
- -📌 Shopping Mall Management System
--✨ This project was developed as a part of the **TNS Training Project** under the team project:
-- 🛍️ Shopping Mall Management System
--In this complete system, my individual module contribution was:
+# 🏢 Certificate Service Module
 
- 📄 Certificate Service
+## 📌 Shopping Mall Management System
+
+✨ This project was developed as a part of the **TNS Training Project** under the team project:
+
+# 🛍️ Shopping Mall Management System
+
+In this complete system, my individual module contribution was:
+
+# 📄 Certificate Service
+
 The Certificate Service module is responsible for managing and tracking certificates received by mall administration from external authorities such as:
 🔥 Fire Department
 🍽️ Food Safety Department
 ⚡ Electrical Safety Department
 🏢 Government Regulatory Authorities
----
- 🚀 Module Overview
-This module helps mall administrators to:
 
+---
+
+# 🚀 Module Overview
+This module helps mall administrators to:
 ✅ Add Certificates
 ✅ View Certificate Details
 ✅ Update Certificate Information
@@ -22,28 +28,29 @@ This module helps mall administrators to:
 ✅ Monitor Expired Certificates
 ✅ View Expiring Soon Alerts
 ✅ Search Certificates Easily
+
 ---
 
- 🛠️ Technologies Used
- 
- 🎨 Frontend
+# 🛠️ Technologies Used
+
+## 🎨 Frontend
 ✅ React.js
 ✅ HTML
 ✅ CSS
 ✅ JavaScript
 
-⚙️ Backend
+## ⚙️ Backend
 ✅ Spring Boot
 ✅ Java
 ✅ REST APIs
 
-🗄️ Database
+## 🗄️ Database
 ✅ PostgreSQL
 ✅ pgAdmin
+
 ---
 
- ✨ Features
-
+# ✨ Features
 🚀 Add Certificate
 🚀 Update Certificate
 🚀 Delete Certificate
@@ -52,61 +59,101 @@ This module helps mall administrators to:
 🚀 Expiring Soon Alerts
 🚀 Dashboard Statistics
 🚀 Responsive User Interface
+
 ---
 
- 📊 Dashboard Features
+# 📊 Dashboard Features
+
 The dashboard displays:
 📌 Total Certificates
 📌 Active Certificates
 📌 Expired Certificates
 📌 Expiring Soon Certificates
 
- 📁 Project Structure
+---
 
-Csrtificate-service
+# 📁 Project Structure
+
+```text
+Shopping-Mall-Management-System
 │
 ├── 📂 certificate-frontend
 ├── 📂 certificate-backend
 ├── 📂 certificate-database
+```
+
 ---
 
- ▶️ **How to Run the Project**
+# ▶️ How to Run the Project
 
- ⚙️ Backend Setup
-1️⃣ Open Backend Project
+# ⚙️ Backend Setup
+
+### 1️⃣ Open Backend Project
 Open the backend project in:
 ✅ Spring Tool Suite (STS)
 or
 ✅ Eclipse
- 2️⃣ Configure Database
+
+### 2️⃣ Configure Database
 Configure PostgreSQL database connection.
- 3️⃣ Run Application
-            CertificateServiceApplication.java
 
-🚀 Backend Runs On
-http://localhost:9090/certificates
+### 3️⃣ Run Application
 
- 💻 Frontend Setup
- 1️⃣ Open Frontend Folder
+```text
+CertificateServiceApplication.java
+```
+
+### 🚀 Backend Runs On
+
+```text
+http://localhost:9090
+```
+
+---
+
+# 💻 Frontend Setup
+
+### 1️⃣ Open Frontend Folder
 Open the frontend folder in VS Code.
-2️⃣ Install Dependencies
-               npm install
-3️⃣ Start React Application
-                npm start
 
- 🚀 Frontend Runs On
-             http://localhost:3000
- 
-🗄️ Database Configuration
- 📌 Database Name
-         certificate_db
+### 2️⃣ Install Dependencies
 
-📌 Table Used
-        certificate
+```bash
+npm install
+```
 
- 🎯 Learning Outcomes
+### 3️⃣ Start React Application
+
+```bash
+npm start
+```
+
+### 🚀 Frontend Runs On
+
+```text
+http://localhost:3000
+```
+
+---
+
+# 🗄️ Database Configuration
+
+## 📌 Database Name
+
+```text
+certificate_db
+```
+
+## 📌 Table Used
+
+```text
+certificate
+```
+
+---
+
+# 🎯 Learning Outcomes
 This project helped me learn and implement:
-
 ✅ Full-Stack Development
 ✅ React Frontend Development
 ✅ Spring Boot REST APIs
@@ -127,9 +174,11 @@ This project helped me learn and implement:
 🚀 Cloud Deployment
 
 ---
- 👨‍💻 Developed By
-  ✨ Anusha V
 
-📌 Role:
-   Backend & Full-Stack Developer — Certificate Service Module
+# 👨‍💻 Developed By
+
+## ✨ Anusha V
+
+### 📌 Role:
+Backend & Full-Stack Developer — Certificate Service Module
 
