@@ -1,8 +1,8 @@
-🏢 Certificate Service Module
- 📌 Shopping Mall Management System
-✨ This project was developed as a part of the **TNS Training Project** under the team project:
- 🛍️ Shopping Mall Management System
-In this complete system, my individual module contribution was:
+-🏢 Certificate Service Module
+ -📌 Shopping Mall Management System
+-✨ This project was developed as a part of the **TNS Training Project** under the team project:
+- 🛍️ Shopping Mall Management System
+-In this complete system, my individual module contribution was:
 
  📄 Certificate Service
 The Certificate Service module is responsible for managing and tracking certificates received by mall administration from external authorities such as:
