@@ -1,0 +1,21 @@
+# Java
+target/
+*.class
+*.log
+
+# Spring Boot
+.idea/
+*.iml
+
+# Node
+node_modules/
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Environment
+.env
